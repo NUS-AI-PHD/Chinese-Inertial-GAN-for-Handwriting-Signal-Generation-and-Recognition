@@ -1,2 +1,2 @@
-# Chinese-IMU-based-Handwriting-Recognition--CIHR--Dataset
+# Chinese Inertial GAN for Handwriting Signal Generation and Recognition
  
